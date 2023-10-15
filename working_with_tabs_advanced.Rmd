@@ -1,6 +1,6 @@
 ---
 title: "Working with tabs (Advanced Method)"
-author: "siju.swamy@saintgits.org"
+author: "ashique.org"
 date: "`r Sys.Date()`"
 output: html_document
 ---
