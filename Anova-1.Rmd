@@ -1,6 +1,6 @@
 ---
 title: "One- Way ANOVA Using R"
-author: "siju.swamy@saintgits.org"
+author: "Ashique"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: slidy_presentation
 css: custom.css
